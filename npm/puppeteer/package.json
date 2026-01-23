@@ -17,7 +17,7 @@
     "watch": "rimraf dist && tsc --watch"
   },
   "dependencies": {
-    "lodash": "^4.17.21",
+    "lodash": "^4.17.23",
     "puppeteer-core": "^21.2.1"
   },
   "devDependencies": {
@@ -27,8 +27,8 @@
     "express": "4.19.2",
     "mocha": "^9.2.2",
     "rimraf": "^5.0.1",
-    "semantic-release": "19.0.3",
-    "sinon": "^13.0.1",
+    "semantic-release": "25.0.0",
+    "sinon": "^21.0.1",
     "sinon-chai": "^3.7.0",
     "ts-node": "^10.9.2",
     "typescript": "5.4.5"
