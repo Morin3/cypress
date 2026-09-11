@@ -132,9 +132,9 @@
     symbol-observable "4.0.0"
     yargs "17.6.2"
 
-"@angular/common@^15.0.3":
-  version "15.0.3"
-  resolved "https://registry.npmjs.org/@angular/common/-/common-15.0.3.tgz"
+"@angular/common@^20.3.28":
+  version "20.3.28"
+  resolved "https://registry.yarnpkg.com/@angular/common/-/common-20.3.28.tgz#c3b639fe112b62498913cdca8b82330d469df8ef"
   dependencies:
     tslib "^2.3.0"
 
