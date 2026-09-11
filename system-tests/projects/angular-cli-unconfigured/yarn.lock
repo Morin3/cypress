@@ -170,10 +170,10 @@
     uuid "8.3.2"
     yargs "17.4.1"
 
-"@angular/common@^14.0.0":
-  version "14.1.0"
-  resolved "https://registry.yarnpkg.com/@angular/common/-/common-14.1.0.tgz#84886e7f74c6e475377fdc9150d0d184583ca8f5"
-  integrity sha512-leethDtLbA3qySaOEBUto602DF0qH1maK9u2zHncrUFOpnHAYUEd7N9MFMdIYASurTnwOSglEoIDCML94qzImQ==
+"@angular/common@^20.3.28":
+  version "20.3.28"
+  resolved "https://registry.yarnpkg.com/@angular/common/-/common-20.3.28.tgz#c3b639fe112b62498913cdca8b82330d469df8ef"
+  integrity sha512-vvMrBI0POHYeUE8EnN4ohYOqLkmZXI6oKJnMvarfukySnw7mZ4VuY4DNAnRSbEZEqO55sOmVCQ7jbxDDt34tZw==
   dependencies:
     tslib "^2.3.0"
 
